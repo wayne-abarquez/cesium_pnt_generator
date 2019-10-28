@@ -1,6 +1,10 @@
+.idea
 node_modules
 viewer/node_modules
 viewer/*.log
+viewer/package.lock
+viewer/yarn.lock
+viewer/data/*
 *.log
 *.las
 *.tif
